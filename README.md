@@ -12,16 +12,16 @@ Yes, I planned a trip over github, AMA
 
 | Event                                     | Time         | Duration                 |  Note                         |
 |-------------------------------------------|--------------|--------------------------|-------------------------------|
-| Guildwood GO depart                       |              |                          | Hop on GO                     |
+| Guildwood GO depart                       | 10:40 am     | 15 mins to Danforth      | Hop on GO                     |
 | Danforth GO depart                        | 10:55 am     | 30 mins to Union         | Meetup with Gaby on the train |
 | Union Station Transfer                    | 11:30 ish    | 1 hour ride to Aldershot | L.E -> L.W                    |
 | Arrive at Aldershot GO                    | 12:30        | sit and wait for Jony    |                               |
-| Wait for Jony to arrive                   | 12:40 pm     | 10 mins                  | time buffer incase delays     |
+| Wait for Jony to arrive                   | 12:30 pm     | 10 mins                  | time buffer incase delays     |
 | Get something for lunch nearby            | 12:40 pm     | 1 hour-ish               |                               |
 | Depart and drive to hiking trail parking  | 2:10 pm      | 20 mins drive            |                               |
 | Actually find parking                     | 2:30 pm      | 10 minutes maybe         | time buffer incase delays     |
 | Tews falls Hiking trail start             | 2:40 pm      | ~30 minutes of hiking    |                               |
-| Actually Reach Dundas peak view           | 3:00 pm      | chill for 30 minutes     |                               |
+| Actually Reach Dundas peak view           | 3:10 pm      | chill until totality     |                               |
 | Eclipse Totality begins at at             | 3:18 pm      | 2 mins of full shadow    | Itl be amazing!               |
 
 
